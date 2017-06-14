@@ -1,0 +1,29 @@
+{
+  "name": "pambda-redux",
+  "version": "0.0.1",
+  "description": "Redux action handling pambda",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pambda/pambda-redux/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/pambda/pambda-redux",
+  "keywords": [
+    "aws",
+    "lambda",
+    "pambda",
+    "redux"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pambda/pambda-redux.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
